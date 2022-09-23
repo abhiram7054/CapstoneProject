@@ -2,6 +2,11 @@
 
 ### Few screenshots that proven the meeting minutes with the groups and pair programming.
 
+- Conversations with teammates on how to do the git branching and pushing
+![image](https://user-images.githubusercontent.com/64590024/191906083-4fc40b9c-102b-4f99-8799-71a5647abc1d.png)
+![image](https://user-images.githubusercontent.com/64590024/191906132-6a2cdfec-cf41-41e6-a144-ace4d1992284.png)
+![image](https://user-images.githubusercontent.com/64590024/191906166-c3d75291-7f0d-4de8-95a6-e4912c3723a6.png)
+
 - Few calls with teammates includes pair programming session and doubt solving sessions
 ![image](https://user-images.githubusercontent.com/64590024/191756139-94200b5b-4bc6-43bd-a7c9-ca93ab00532e.png)
 
